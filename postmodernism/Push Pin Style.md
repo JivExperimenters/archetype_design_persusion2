@@ -22,7 +22,6 @@ This poster is one of the most famous examples of the era's graphic energy. It b
 Push Pin Studio's posters and magazine work often mixed a variety of historical references with a contemporary sensibility. Their compositions used strong illustration and playful treatment of type to create modern images that remained rooted in print culture.
 
 ## Sources
-- Push Pin Studio official archive and design history: [Push Pin Studio](https://www.pushpininc.com/)
 - AIGA Design Archives, references to Milton Glaser and Push Pin Studio work: [AIGA](https://www.aiga.org/)
 - The Museum of Modern Art (MoMA) and related archival material on postmodern and illustration-based design: [MoMA](https://www.moma.org/)
 - Milton Glaser's institutional and design archive references: [The Milton Glaser Design Study Center & Archives](https://www.miltonglaser.com/)
