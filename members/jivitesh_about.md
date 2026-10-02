@@ -25,16 +25,12 @@ CTA and destination: "Explore My Work" — leads to a project gallery or portfol
 Persuasion principle and why it fits: Authority with a creative edge. The Creator builds trust through strong examples of work, visible process, and proof of execution. Showing real projects and explaining how ideas evolved makes the page feel credible and inspiring.
 
 ## Issues I completed
-[](https://github.com/mnguyenht/Minh_-archetype_design_persusion/blob/main/members/jivitesh_about.md#issues-i-completed)
-I completed the work needed to define my archetype and shape it into a clear creative direction for my personal page. This included choosing the visual language, choosing the right palette and typography, and identifying how I wanted to present my work and ideas. The process helped me understand how a personal brand can communicate both creativity and credibility.
+
 
 ## My work and reviews
-[](https://github.com/mnguyenht/Minh_-archetype_design_persusion/blob/main/members/jivitesh_about.md#my-work-and-reviews)
-This section will highlight projects, experiments, prototypes, and finished pieces that show my creative process. I plan to present work in a way that explains the challenge, my role, and the result, so visitors can understand both the idea and the execution behind it. If feedback or reviews are available, they can help strengthen the trust and authenticity of the page.
+
 
 ## What I have learned so far
-[](https://github.com/mnguyenht/Minh_-archetype_design_persusion/blob/main/members/jivitesh_about.md#what-i-have-learned-so-far)
-I have learned that creativity is strongest when it is purposeful and well communicated. A strong visual identity helps people understand the type of work I want to make, and a clear process helps them trust the work itself. I also learned that being creative does not mean being scattered; it means building structure around ideas so they can become real experiences.
+
 
 ## Collaborator credits
-This page reflects my own interpretation of the Creator archetype and the design direction I chose for my personal brand. It was developed as part of the larger archetype project with feedback and inspiration from classmates and project collaborators along the way.
