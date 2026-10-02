@@ -15,7 +15,7 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 | Explorer | Omari | Add page link |
 | Rebel / Outlaw | Minh | Add page link |
 | Lover | Brennan | Add page link |
-| Creator | Jivitesh | Add page link |
+| Creator | Jivitesh | [Creator](creator.md) |
 | Jester | Brennan | Add page link |
 | Sage | Omari | Add page link |
 | Magician | Minh | Add page link |
