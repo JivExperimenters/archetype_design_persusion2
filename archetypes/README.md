@@ -2,6 +2,8 @@
 
 [Home](../README.md) · [Assignment](../assignment.md) · [Template](../reference/page-templates.md)
 
+[View the Creator, Ruler, and Caregiver hero design gallery](designs.html)
+
 Create one page per archetype with two original hero designs: one modernist and one postmodernist. A third is optional.
 
 The lead fills in owners and replaces “Add page link” with a link when each page exists.
