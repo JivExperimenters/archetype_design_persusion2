@@ -29,9 +29,9 @@ I researched and developed these archetype, design-style, and persuasion-princip
 | **Archetype** | [Innocent](../archetypes/innocent.md) | Developed an Innocent-inspired direction with brand imagery, type suggestions, and design references. |
 | **Archetype** | [Explorer](../archetypes/explorer.md) | Built an energetic Explorer direction with outdoor-brand references, color schemes, and visual guidance. |
 | **Archetype** | [Sage](../archetypes/sage.md) | Shaped a research-led Sage page around evidence, clear sources, and thoughtful hierarchy. |
-| **Modern design style** | [Bauhaus](../lessons/bauhaus.md) | Researched Bauhaus principles and explored how geometry, function, and contrast can inform a hero design. |
-| **Modern design style** | [De Stijl](../lessons/de-stijl.md) | Researched De Stijl and translated its geometric structure and limited palette into design guidance. |
-| **Modern design style** | [Swiss / International Typographic Style](../lessons/swiss-international-typographic-style.md) | Researched grid, hierarchy, and typography, with examples for applying the style to a hero. |
+| **Modern design style** | [Bauhaus](../modernism/bauhaus.md) | Researched Bauhaus principles and explored how geometry, function, and contrast can inform a hero design. |
+| **Modern design style** | [De Stijl](../modernism/de-stijl.md) | Researched De Stijl and translated its geometric structure and limited palette into design guidance. |
+| **Modern design style** | [Swiss / International Typographic Style](../modernism/swiss-international.md) | Researched grid, hierarchy, and typography, with examples for applying the style to a hero. |
 | **Persuasion principle** | [Authority](../persuasion/authority.md) | Developed guidance and diagrams for showing relevant expertise and evidence transparently. |
 
 **Issues**
@@ -40,9 +40,9 @@ I researched and developed these archetype, design-style, and persuasion-princip
 - [#35 Create Explorer archetype page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/35): Completed.
 - [#36 Create Sage archetype page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/36): Completed.
 - [#38 Create Authority persuasion page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/38): Completed.
-- [#39 Create Bauhaus design style page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/39): In progress. The page is not in the repository yet.
-- [#40 Create De Stijl design-style page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/40): In progress. The page is not in the repository yet.
-- [#41 Create Swiss/International Typographic Style design-style page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/41): In progress. The page is not in the repository yet.
+- [#39 Create Bauhaus design style page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/39): Completed.
+- [#40 Create De Stijl design-style page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/40): Completed.
+- [#41 Create Swiss/International Typographic Style design-style page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/41): Completed.
 
 ## What I learned
 

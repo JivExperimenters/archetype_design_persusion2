@@ -15,7 +15,6 @@ Use grunge when expression and subculture are important parts of the message. It
 Layer and rotate headline type over a textured photograph. Crop some large letters at the edge to make the composition feel larger than the frame. Keep the CTA button flat, high-contrast, and unrotated so the primary action remains obvious.
 
 ## Examples
-TODO: replace with a museum collection record (MoMA, V&A or Cooper Hewitt) if one is found.
 
 ### *Ray Gun*, Premiere Issue
 The premiere issue appeared in November 1992, with art direction by David Carson and Marvin Scott Jarrett as publisher and editor. Its typography challenges standard magazine hierarchy through varied scale, layering, distressed surfaces, and image-like text. The cover and spreads show how editorial design can communicate the attitude of music coverage before a reader processes every word. Institution: Display Graphic Design Collection (thisisdisplay.org). [Collection record](https://bookstore.thisisdisplay.org/products/ray-gun-premiere-issue-november-1992-david-carson).
