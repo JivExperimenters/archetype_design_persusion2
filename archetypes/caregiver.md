@@ -1,5 +1,5 @@
 # Caregiver
-[Back to this section](README.md) · [Home](../README.md)
+[Archetypes](README.md) · [Hero design gallery](designs.html#caregiver) · [Home](../README.md)
 
 ## What is it?
 The Caregiver archetype centers on support, protection, and making other people feel safe. It is defined by generosity, responsibility, and the desire to reduce stress or harm. The audience feels most comfortable when an offer feels practical, compassionate, and genuinely useful.
@@ -19,27 +19,28 @@ Two persuasion principles fit especially well:
 Planned styles are [American Mid-Century Modernism](../modernism/American%20Mid-Century%20Modernism.md), which gives the page a calm, welcoming structure, and [Push Pin Style](../postmodernism/Push%20Pin%20Style.md), which can add warmth and personality without losing clarity.
 
 ## Examples
-### Example 1 (modernist)
-TODO: add design image `../assets/heroes/caregiver/modernist.png`
+### Example 1: Modernist
+![Goodway modernist hero design: family members support one another beside the headline A little more support. A clearer next step.](../assets/heroes/caregiver/modernist.svg)
 
 Archetype: Caregiver
 Style: [American Mid-Century Modernism](../modernism/American%20Mid-Century%20Modernism.md)
-Persuasion: TODO
-Headline: TODO
-CTA: TODO
+Persuasion: Reciprocity
+Headline: A little more support. A clearer next step.
+CTA: Get the free checklist
 
-TODO: two or three sentences on how the archetype, style, and persuasion work together. Label generated imagery.
+The calm mid-century composition and supportive figures make the family care organizer feel approachable and practical. Reciprocity appears in the useful checklist offered freely, with no pressure or implied obligation.
 
-### Example 2 (postmodernist)
-TODO: add design image `../assets/heroes/caregiver/postmodernist.png`
+### Example 2: Postmodernist
+![Goodway postmodernist hero design: a Push Pin-inspired paper collage illustrates shared care beside the headline Care works better when shared.](../assets/heroes/caregiver/postmodernist.svg)
 
 Archetype: Caregiver
 Style: [Push Pin Style](../postmodernism/Push%20Pin%20Style.md)
-Persuasion: TODO
-Headline: TODO
-CTA: TODO
+Persuasion: Reciprocity
+Headline: Care works better when shared.
+CTA: Get the free checklist
 
-TODO: two or three sentences on how the archetype, style, and persuasion work together. Label generated imagery.
+Cut-paper shapes and friendly character illustrations give the same care-planning offer warmth and personality. The free checklist remains a practical act of reciprocity, while the headline emphasizes support shared among family members.
 
 ## Sources
 - Margaret Mark and Carol S. Pearson, *The Hero and the Outlaw: Building Extraordinary Brands Through the Power of Archetypes*. McGraw-Hill, 2001.
+- Design images: original generated vector artwork created for this project.

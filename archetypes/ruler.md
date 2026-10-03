@@ -1,5 +1,5 @@
 # Ruler
-[Back to this section](README.md) · [Home](../README.md)
+[Archetypes](README.md) · [Hero design gallery](designs.html#ruler) · [Home](../README.md)
 
 ## What is it?
 The Ruler archetype values order, structure, and confidence. It is associated with leadership, standards, and the ability to shape outcomes through clarity, discipline, and clear decision-making. The audience for this archetype wants a sense of control, quality, and dependable direction.
@@ -19,27 +19,28 @@ Two persuasion principles fit especially well:
 Planned styles are [Russian Constructivism](../modernism/russian-constructivism.md), which brings a strong structural sense, and [Memphis](../postmodernism/Memphis.md), which can add a confident, expressive edge when used carefully.
 
 ## Examples
-### Example 1 (modernist)
-TODO: add design image `../assets/heroes/ruler/modernist.png`
+### Example 1: Modernist
+![Northline modernist hero design: Constructivist-inspired geometry frames the headline Set the standard. Move with purpose.](../assets/heroes/ruler/modernist.svg)
 
 Archetype: Ruler
 Style: [Russian Constructivism](../modernism/russian-constructivism.md)
-Persuasion: TODO
-Headline: TODO
-CTA: TODO
+Persuasion: Authority
+Headline: Set the standard. Move with purpose.
+CTA: Review the framework
 
-TODO: two or three sentences on how the archetype, style, and persuasion work together. Label generated imagery.
+The strong diagonal and limited palette communicate direction and control, while the specific planning-toolkit offer keeps the promise grounded. Authority is expressed through a clear, reviewable framework rather than unsupported claims.
 
-### Example 2 (postmodernist)
-TODO: add design image `../assets/heroes/ruler/postmodernist.png`
+### Example 2: Postmodernist
+![Northline postmodernist hero design: an orderly grid and Memphis-inspired shapes frame Decide clearly. Lead consistently.](../assets/heroes/ruler/postmodernist.svg)
 
 Archetype: Ruler
 Style: [Memphis](../postmodernism/Memphis.md)
-Persuasion: TODO
-Headline: TODO
-CTA: TODO
+Persuasion: Authority
+Headline: Decide clearly. Lead consistently.
+CTA: Review the framework
 
-TODO: two or three sentences on how the archetype, style, and persuasion work together. Label generated imagery.
+The grid preserves the Ruler's sense of order, while the Memphis shapes add energy without obscuring the message. The same framework preview supports authority by letting visitors inspect the offer before acting.
 
 ## Sources
 - Margaret Mark and Carol S. Pearson, *The Hero and the Outlaw: Building Extraordinary Brands Through the Power of Archetypes*. McGraw-Hill, 2001.
+- Design images: original generated vector artwork created for this project.
