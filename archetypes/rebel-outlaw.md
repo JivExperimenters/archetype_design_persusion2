@@ -19,27 +19,31 @@ Two persuasion principles fit especially well:
 Planned styles are [Italian Futurism](../modernism/italian-futurism.md), with its forceful motion and typographic disruption, and [Punk](../postmodernism/punk.md), with its DIY collage and attacks on official imagery.
 
 ## Examples
-### Example 1 (modernist)
-TODO: add design image `../assets/heroes/rebel-outlaw/modernist.png`
+Both designs use the same fictional brand, PLAINWORK, which sells one plain white heavyweight T-shirt.
+
+### Example 1
+![Futurist hero for PLAINWORK: the words "Break the uniform." fly along different diagonals over radiating speed lines, with a white T-shirt in motion.](../assets/heroes/rebel-outlaw/modernist.png)
 
 Archetype: Rebel / Outlaw
 Style: [Italian Futurism](../modernism/italian-futurism.md)
-Persuasion: TODO
-Headline: TODO
-CTA: TODO
+Persuasion: [Unity](../persuasion/unity.md)
+Headline: BREAK THE UNIFORM.
+CTA: "Join the crew" opens a sign-up page for the brand's mailing list.
 
-TODO: two or three sentences on how the archetype, style, and persuasion work together. Label generated imagery.
+Futurism's speed lines and words scattered at different angles borrow from Marinetti's "words in freedom" and make the page feel like it is breaking apart its own layout. The Rebel message names the opponent (logos and dress codes) and offers a plain shirt as the act of refusal. "Join the crew" turns that refusal into membership in a group, which is how Unity works: people say yes more readily to those they see as part of "us."
 
-### Example 2 (postmodernist)
-TODO: add design image `../assets/heroes/rebel-outlaw/postmodernist.png`
+### Example 2
+![Punk hero for PLAINWORK: ransom-note letters spell "One run. Then it's gone." over fluorescent yellow and pink torn-paper blocks, with tape across a white T-shirt.](../assets/heroes/rebel-outlaw/postmodernist.png)
 
 Archetype: Rebel / Outlaw
 Style: [Punk](../postmodernism/punk.md)
-Persuasion: TODO
-Headline: TODO
-CTA: TODO
+Persuasion: [Scarcity](../persuasion/scarcity.md)
+Headline: ONE RUN. THEN IT'S GONE.
+CTA: "Get one before it's gone" goes to the product page for this print.
 
-TODO: two or three sentences on how the archetype, style, and persuasion work together. Label generated imagery.
+The ransom-note letters and fluorescent yellow and pink come straight from Jamie Reid's Sex Pistols graphics, and the torn edges give it the photocopied, homemade feel of punk. The Rebel tone fits a print that refuses to be restocked. Scarcity is honest here only if the shop really prints the design once, and the plain black button keeps the action easy to find inside the noise.
+
+Image credit: both designs are original mockups built in HTML/CSS with AI assistance (Codex and Claude) and screenshotted. No photographs or museum images are reproduced.
 
 ## Sources
 - Margaret Mark and Carol S. Pearson, *The Hero and the Outlaw: Building Extraordinary Brands Through the Power of Archetypes*. McGraw-Hill, 2001.
