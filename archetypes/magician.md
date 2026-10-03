@@ -16,30 +16,34 @@ Two persuasion principles fit especially well:
 - Authority: relevant expertise can make an unfamiliar process understandable and credible when qualifications are stated accurately.
 - Commitment and consistency: a small voluntary action can begin the transformation and help the audience continue toward its chosen vision.
 
-Planned styles: TODO: choose one modernist and one postmodernist style.
+Planned styles are [Bauhaus](../modernism/bauhaus.md), whose basic shapes and primary colors can show one thing becoming many, and [Deconstruction (Cranbrook)](../postmodernism/deconstruction.md), whose layered type and images suit a sense of hidden change.
 
 ## Examples
-### Example 1 (modernist)
-TODO: add design image `../assets/heroes/magician/modernist.png`
+Both designs use the same fictional brand, PLAINWORK, which sells one plain white heavyweight T-shirt.
+
+### Example 1
+![Bauhaus hero for PLAINWORK: a white T-shirt on a strict grid above a row of seven geometric swatches in red, yellow, blue and black, with the lowercase headline "one shirt, seven outfits."](../assets/heroes/magician/modernist.png)
 
 Archetype: Magician
-Style: [TODO: choose a modernist style](TODO)
-Persuasion: TODO
-Headline: TODO
-CTA: TODO
+Style: [Bauhaus](../modernism/bauhaus.md)
+Persuasion: [Reciprocity](../persuasion/reciprocity.md)
+Headline: one shirt, seven outfits.
+CTA: "get the free guide" opens the free styling guide, with no purchase or sign-up required.
 
-TODO: two or three sentences on how the archetype, style, and persuasion work together. Label generated imagery.
+The all-lowercase geometric type follows Herbert Bayer's Bauhaus lettering, and the row of basic shapes in primary colors shows one shirt turning into seven looks. That change is the Magician's promise, kept believable because it comes from simple pairing, not a miracle. Giving the guide away first is Reciprocity: the brand offers something useful before it asks for anything.
 
-### Example 2 (postmodernist)
-TODO: add design image `../assets/heroes/magician/postmodernist.png`
+### Example 2
+![Deconstruction hero for PLAINWORK: a glowing white T-shirt with an offset double, layered over a huge ghosted word "WHITE," thin grid lines and small rotated text on a dark violet background.](../assets/heroes/magician/postmodernist.png)
 
 Archetype: Magician
-Style: [TODO: choose a postmodernist style](TODO)
-Persuasion: TODO
-Headline: TODO
-CTA: TODO
+Style: [Deconstruction (Cranbrook)](../postmodernism/deconstruction.md)
+Persuasion: [Commitment / consistency](../persuasion/commitment-consistency.md)
+Headline: Start with white. See what it turns into.
+CTA: "Build my first look" opens an outfit builder where the shopper picks one piece to pair with the tee.
 
-TODO: two or three sentences on how the archetype, style, and persuasion work together. Label generated imagery.
+Layered, overlapping type at several reading levels comes from the Cranbrook work of Katherine McCoy and Ed Fella, and the doubled shirt suggests something changing under the surface. The Magician headline invites the viewer to watch a transformation they start themselves. Building one look is a small first commitment that leads naturally to the next look and then the purchase.
+
+Image credit: both designs are original mockups built in HTML/CSS with AI assistance (Codex and Claude) and screenshotted. No photographs or museum images are reproduced.
 
 ## Sources
 - Margaret Mark and Carol S. Pearson, *The Hero and the Outlaw: Building Extraordinary Brands Through the Power of Archetypes*. McGraw-Hill, 2001.
