@@ -8,7 +8,7 @@ The lead replaces these placeholders with names and links as pages are created.
 
 | Student | About page |
 |---|---|
-| Minh | Add page link |
-| Brennan | Add page link |
-| Jivitesh | Add page link |
-| Omari | Add page link |
+| Minh | [Minh Nguyen](minh_nguyen.md) |
+| Brennan | [Brennan Dahmen](brennan_dahmen.md) |
+| Jivitesh | [Jivitesh Duddu](jivitesh_duddu.md) |
+| Omari | [Omari Sellers](omari_sellers.md) |

@@ -26,6 +26,15 @@ Persuasion principle and why it fits: Authority with a creative edge. The Creato
 
 ## Issues I completed
 
+- [#21 new ruler archetype](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/21): Completed. Wrote the Ruler archetype page.
+- [#22 new caregiver archetype](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/22): Completed. Wrote the Caregiver archetype page.
+- [#32 New Creator Page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/32): Completed. Wrote the Creator archetype page.
+- [#23 American Mid-Century Modernism page create](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/23): Completed. Wrote the American Mid-Century Modernism style page.
+- [#26 Memphis page creation](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/26): Completed. Wrote the Memphis style page.
+- [#27 Push Pin Style creation page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/27): Completed. Wrote the Push Pin Style page.
+- [#24 new Reciprocity page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/24): Completed. Wrote the Reciprocity persuasion page.
+- [#25 Social proof creation page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/25): Completed. Wrote the Social proof persuasion page.
+
 
 ## My work and reviews
 

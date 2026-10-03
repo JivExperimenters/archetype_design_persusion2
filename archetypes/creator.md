@@ -13,14 +13,14 @@ The Creator works well for audiences who value originality, experimentation, and
 
 Commitment and consistency fits the Creator: inviting someone to begin with one small prompt gives them a concrete first step into a creative practice.
 
-The paired hero concepts keep the same offer, Open Studio's guided creative practice, while contrasting [American Mid-Century Modernism](../modernism/American%20Mid-Century%20Modernism.md) with [Memphis](../postmodernism/Memphis.md).
+The paired hero concepts keep the same offer, Open Studio's guided creative practice, while contrasting [American Mid-Century Modernism](../modernism/american-mid-century-modernism.md) with [Memphis](../postmodernism/memphis.md).
 
 ## Examples
 ### Example 1: Modernist
 ![Open Studio modernist hero design: a mid-century inspired layout with the headline Your next idea starts as a draft.](../assets/heroes/creator/modernist.svg)
 
 Archetype: Creator
-Style: [American Mid-Century Modernism](../modernism/American%20Mid-Century%20Modernism.md)
+Style: [American Mid-Century Modernism](../modernism/american-mid-century-modernism.md)
 Persuasion: Commitment and consistency
 Headline: Your next idea starts as a draft.
 CTA: Begin your first prompt
@@ -31,7 +31,7 @@ The restrained palette, strong typographic hierarchy, and geometric paper shapes
 ![Open Studio postmodernist hero design: Memphis-inspired geometry frames the headline Make the idea. Then make it yours.](../assets/heroes/creator/postmodernist.svg)
 
 Archetype: Creator
-Style: [Memphis](../postmodernism/Memphis.md)
+Style: [Memphis](../postmodernism/memphis.md)
 Persuasion: Commitment and consistency
 Headline: Make the idea. Then make it yours.
 CTA: Begin your first prompt

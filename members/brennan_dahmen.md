@@ -26,6 +26,13 @@ Persuasion principle and why it fits: Authority. The Sage builds trust through d
 
 ## Issues I completed
 
+- [#7 Everyperson archetype](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/7): Completed. Wrote the Everyperson archetype page.
+- [#8 Jester Archetype](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/8): Completed. Wrote the Jester archetype page.
+- [#9 Lover Archetype](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/9): Completed. Wrote the Lover archetype page.
+- [#18 Italian Futurism design style](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/18): Completed. Wrote the Italian Futurism style page.
+- [#20 New Wave design](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/20): Completed. Wrote the New Wave style page.
+- [#28 Deconstruction style page](https://github.com/mnguyenht/Minh_-archetype_design_persusion/issues/28): Completed. Wrote the Deconstruction (Cranbrook) style page.
+
 I completed the work needed to define my archetype and turn that direction into a usable design concept. This included choosing the style, color palette, typography, and messaging that best represent the Sage. I also used the project to better understand how branding, visual decisions, and content strategy all work together to communicate who I am.
 
 ## My work and reviews

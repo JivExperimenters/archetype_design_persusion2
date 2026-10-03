@@ -11,6 +11,6 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 | Swiss International | Omari | Add page link |
 | Bauhaus | Omari | Add page link |
 | De Stijl | Omari | Add page link |
-| Russian Constructivism | Minh | Add page link |
-| Italian Futurism | Brennan | Add page link |
-| American Mid-Century Modernism | Jivitesh | Add page link |
+| Russian Constructivism | Minh | [Russian Constructivism](russian-constructivism.md) |
+| Italian Futurism | Brennan | [Italian Futurism](italian-futurism.md) |
+| American Mid-Century Modernism | Jivitesh | [American Mid-Century Modernism](american-mid-century-modernism.md) |

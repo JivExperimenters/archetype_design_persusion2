@@ -10,15 +10,15 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 
 | Topic | Owner | Page |
 |---|---|---|
-| Innocent | Omari | Add page link |
-| Everyperson / Everyman | Brennan | Add page link |
+| Innocent | Omari | [Innocent](innocent.md) |
+| Everyperson / Everyman | Brennan | [Everyperson](everyperson.md) |
 | Hero | Minh | [Hero](hero.md) |
 | Caregiver | Jivitesh | [Caregiver](caregiver.md) |
-| Explorer | Omari | Add page link |
-| Rebel / Outlaw | Minh | Add page link |
-| Lover | Brennan | Add page link |
+| Explorer | Omari | [Explorer](explorer.md) |
+| Rebel / Outlaw | Minh | [Rebel / Outlaw](rebel-outlaw.md) |
+| Lover | Brennan | [Lover](lover.md) |
 | Creator | Jivitesh | [Creator](creator.md) |
-| Jester | Brennan | Add page link |
-| Sage | Omari | Add page link |
-| Magician | Minh | Add page link |
+| Jester | Brennan | [Jester](jester.md) |
+| Sage | Omari | [Sage](sage.md) |
+| Magician | Minh | [Magician](magician.md) |
 | Ruler | Jivitesh | [Ruler](ruler.md) |
