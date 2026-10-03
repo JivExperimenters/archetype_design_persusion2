@@ -2,7 +2,7 @@
 [Home](../README.md)
 
 ## What it is
-The Bauhaus was a German school of architecture, art, and design founded by Walter Gropius in 1919. It later moved to Dessau and Berlin before closing in 1933. The school brought together art, technology, craft, and architecture to create practical designs for modern life. :contentReference
+The Bauhaus was a German school of architecture, art, and design founded by Walter Gropius in 1919. It later moved to Dessau and Berlin before closing in 1933. The school brought together art, technology, craft, and architecture to create practical designs for modern life. 
 
 Bauhaus is closely connected to Modernism because it emphasized function, simple forms, new materials, and the relationship between design and industrial production. Its influence can be seen across furniture, architecture, graphics, photography, textiles, and other areas of modern design. 
 
