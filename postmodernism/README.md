@@ -8,9 +8,9 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 
 | Topic | Owner | Page |
 |---|---|---|
-| Memphis | Jivitesh | Add page link |
-| Push Pin Style | Jivitesh | Add page link |
-| New Wave | Brennan | Add page link |
-| Punk | Minh | Add page link |
-| Grunge | Minh | Add page link |
-| Deconstruction (Cranbrook) | Brennan | Add page link |
+| Memphis | Jivitesh | [Memphis](memphis.md) |
+| Push Pin Style | Jivitesh | [Push Pin Style](push-pin-style.md) |
+| New Wave | Brennan | [New Wave](new-wave.md) |
+| Punk | Minh | [Punk](punk.md) |
+| Grunge | Minh | [Grunge](grunge.md) |
+| Deconstruction (Cranbrook) | Brennan | [Deconstruction (Cranbrook)](deconstruction.md) |

@@ -16,14 +16,14 @@ Two persuasion principles fit especially well:
 - Reciprocity: giving useful value first builds trust and goodwill.
 - Liking: a warm, supportive tone makes the offer feel more approachable and human.
 
-Planned styles are [American Mid-Century Modernism](../modernism/American%20Mid-Century%20Modernism.md), which gives the page a calm, welcoming structure, and [Push Pin Style](../postmodernism/Push%20Pin%20Style.md), which can add warmth and personality without losing clarity.
+Planned styles are [American Mid-Century Modernism](../modernism/american-mid-century-modernism.md), which gives the page a calm, welcoming structure, and [Push Pin Style](../postmodernism/push-pin-style.md), which can add warmth and personality without losing clarity.
 
 ## Examples
 ### Example 1: Modernist
 ![Goodway modernist hero design: family members support one another beside the headline A little more support. A clearer next step.](../assets/heroes/caregiver/modernist.svg)
 
 Archetype: Caregiver
-Style: [American Mid-Century Modernism](../modernism/American%20Mid-Century%20Modernism.md)
+Style: [American Mid-Century Modernism](../modernism/american-mid-century-modernism.md)
 Persuasion: Reciprocity
 Headline: A little more support. A clearer next step.
 CTA: Get the free checklist
@@ -34,7 +34,7 @@ The calm mid-century composition and supportive figures make the family care org
 ![Goodway postmodernist hero design: a Push Pin-inspired paper collage illustrates shared care beside the headline Care works better when shared.](../assets/heroes/caregiver/postmodernist.svg)
 
 Archetype: Caregiver
-Style: [Push Pin Style](../postmodernism/Push%20Pin%20Style.md)
+Style: [Push Pin Style](../postmodernism/push-pin-style.md)
 Persuasion: Reciprocity
 Headline: Care works better when shared.
 CTA: Get the free checklist

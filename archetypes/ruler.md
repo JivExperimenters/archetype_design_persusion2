@@ -16,7 +16,7 @@ Two persuasion principles fit especially well:
 - Authority: clear expertise and confident standards support credibility.
 - Commitment and consistency: a disciplined process creates trust through predictability and follow-through.
 
-Planned styles are [Russian Constructivism](../modernism/russian-constructivism.md), which brings a strong structural sense, and [Memphis](../postmodernism/Memphis.md), which can add a confident, expressive edge when used carefully.
+Planned styles are [Russian Constructivism](../modernism/russian-constructivism.md), which brings a strong structural sense, and [Memphis](../postmodernism/memphis.md), which can add a confident, expressive edge when used carefully.
 
 ## Examples
 ### Example 1: Modernist
@@ -34,7 +34,7 @@ The strong diagonal and limited palette communicate direction and control, while
 ![Northline postmodernist hero design: an orderly grid and Memphis-inspired shapes frame Decide clearly. Lead consistently.](../assets/heroes/ruler/postmodernist.svg)
 
 Archetype: Ruler
-Style: [Memphis](../postmodernism/Memphis.md)
+Style: [Memphis](../postmodernism/memphis.md)
 Persuasion: Authority
 Headline: Decide clearly. Lead consistently.
 CTA: Review the framework
